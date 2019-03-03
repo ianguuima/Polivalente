@@ -1,0 +1,1 @@
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/br/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/3.0/br/88x31.png" /></a><br />Este obra está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/br/">Creative Commons Atribuição-NãoComercial 3.0 Brasil</a>.
